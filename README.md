@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnold Rodriguez 🧑🏻‍💻</h1>
+<h1 align="center">Hi 👋, I'm Arnold Rodríguez 🧑🏻‍💻</h1>
 <h3 align="center">I am a developer with more than 2+ years of experience in application development, specialized in front-end, back-end and mobile application development. Experienced with all stages of the development cycle for dynamic web projects.</h3>
 
 - 🔭 I’m currently working on [Freelance](https://arnoldrodriguez.xyz)
